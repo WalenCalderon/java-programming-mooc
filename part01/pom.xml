@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>tkt</groupId>
+    <artifactId>mooc-java-programming-i</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>MOOC Java Programming I</name>
+
+    <modules>
+        <module>part01-Part01_01.Sandbox</module>
+        <module>part01-Part01_02.AdaLovelace</module>
+        <module>part01-Part01_03.OnceUponATime</module>
+        <module>part01-Part01_04.Dinosaur</module>
+        <module>part01-Part01_05.Message</module>
+        <module>part01-Part01_06.HiAdaLovelace</module>
+        <module>part01-Part01_07.MessageThreeTimes</module>
+        <module>part01-Part01_08.Greeting</module>
+        <module>part01-Part01_09.Conversation</module>
+        <module>part01-Part01_10.Story</module>
+        <module>part01-Part01_11.VariousVariables</module>
+        <module>part01-Part01_12.IntegerInput</module>
+        <module>part01-Part01_13.DoubleInput</module>
+        <module>part01-Part01_14.BooleanInput</module>
+        <module>part01-Part01_15.DifferentTypesOfInput</module>
+        <module>part01-Part01_16.SecondsInADay</module>
+        <module>part01-Part01_17.SumOfTwoNumbers</module>
+        <module>part01-Part01_18.SumOfThreeNumbers</module>
+        <module>part01-Part01_19.AdditionFormula</module>
+        <module>part01-Part01_20.MultiplicationFormula</module>
+        <module>part01-Part01_21.AverageOfTwoNumbers</module>
+        <module>part01-Part01_22.AverageOfThreeNumbers</module>
+        <module>part01-Part01_23.SimpleCalculator</module>
+        <module>part01-Part01_24.SpeedingTicket</module>
+        <module>part01-Part01_25.CheckYourIndentation</module>
+        <module>part01-Part01_26.Orwell</module>
+        <module>part01-Part01_27.Ancient</module>
+        <module>part01-Part01_28.Positivity</module>
+        <module>part01-Part01_29.Adulthood</module>
+        <module>part01-Part01_30.LargerThanOrEqualTo</module>
+        <module>part01-Part01_31.GradesAndPoints</module>
+        <module>part01-Part01_32.OddOrEven</module>
+        <module>part01-Part01_33.Password</module>
+        <module>part01-Part01_34.Same</module>
+        <module>part01-Part01_35.CheckingTheAge</module>
+        <module>part01-Part01_36.LeapYear</module>
+        <module>part01-Part01_37.GiftTax</module>
+    </modules>
+</project>

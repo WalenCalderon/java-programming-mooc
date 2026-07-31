@@ -1,0 +1,45 @@
+# Java bytecode and packaged output
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Maven and other build output
+target/
+build/
+dist/
+out/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# MOOC/TMC local state and caches
+.tmc/
+.tmcbeans/
+tmcdata/
+
+# Local Java tools
+jshell.history
+.java-version
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
