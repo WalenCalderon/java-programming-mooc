@@ -12,7 +12,7 @@ public class OddOrEven {
         if(number %2 == 0){
             System.out.println( "Number " + number + " is even.");
         }else{
-            System.out.println("Number"+ number +" is odd.");
+            System.out.println("Number "+ number +" is odd.");
         }
         // HINT:
         // You can find out if a number is even or odd easily using the modulo operator %
