@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Pide un mensaje, lee una línea completa del usuario y muestra exactamente el mismo mensaje.
+ */
 public class Message {
 
     public static void main(String[] args) {

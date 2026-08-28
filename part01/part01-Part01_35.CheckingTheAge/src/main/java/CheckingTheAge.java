@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee una edad y acepta únicamente valores entre 0 y 120, incluidos; cualquier otro valor es imposible.
+ */
 public class CheckingTheAge {
 
     public static void main(String[] args) {

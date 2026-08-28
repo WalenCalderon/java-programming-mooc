@@ -5,7 +5,7 @@ Este repositorio contiene mis soluciones de los ejercicios del **Java Programmin
 ## Progreso
 
 - Parte 1: completada
-- Parte 2: pendiente
+- Parte 2: preparada (34 ejercicios iniciales)
 
 Los ejercicios están organizados por parte y conservan su estructura original de Maven y los archivos necesarios del sistema de ejercicios TMC.
 

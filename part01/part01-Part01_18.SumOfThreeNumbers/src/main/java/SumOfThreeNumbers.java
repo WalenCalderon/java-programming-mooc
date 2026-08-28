@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee tres números enteros y muestra la suma de los tres.
+ */
 public class SumOfThreeNumbers {
 
     public static void main(String[] args) {

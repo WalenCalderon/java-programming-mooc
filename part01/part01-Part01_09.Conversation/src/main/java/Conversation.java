@@ -2,6 +2,10 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Construye la conversación guiada: muestra una pregunta, lee la respuesta, muestra la segunda pregunta, lee otra respuesta y despídete.
+ */
 public class Conversation {
 
     public static void main(String[] args) {

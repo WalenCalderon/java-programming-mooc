@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Pide un valor verdadero o falso, conviértelo al tipo lógico y confirma el valor introducido.
+ */
 public class BooleanInput {
 
     public static void main(String[] args) {

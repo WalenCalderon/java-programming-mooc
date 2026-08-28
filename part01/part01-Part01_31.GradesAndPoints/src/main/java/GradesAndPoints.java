@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Convierte una puntuación de 0 a 100 en la calificación indicada por los rangos del ejercicio; contempla también valores imposibles.
+ */
 public class GradesAndPoints {
 
     public static void main(String[] args) {

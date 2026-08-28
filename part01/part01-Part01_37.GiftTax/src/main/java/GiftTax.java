@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee el valor de un regalo y calcula el impuesto usando el tramo correspondiente. Los regalos menores de 5000 no pagan impuesto.
+ */
 public class GiftTax {
 
     public static void main(String[] args) {

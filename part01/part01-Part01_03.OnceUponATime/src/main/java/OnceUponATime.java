@@ -1,4 +1,8 @@
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Muestra la historia solicitada en tres líneas separadas y en el orden indicado.
+ */
 public class OnceUponATime {
 
     public static void main(String[] args) {

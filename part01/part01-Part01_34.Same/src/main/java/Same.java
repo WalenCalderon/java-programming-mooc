@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee dos textos y comunica si contienen exactamente los mismos caracteres; compara su contenido, no sus referencias.
+ */
 public class Same {
 
     public static void main(String[] args) {

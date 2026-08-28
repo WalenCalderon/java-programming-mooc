@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee un número; muestra el texto especial únicamente cuando el valor sea 1984.
+ */
 public class Orwell {
 
     public static void main(String[] args) {

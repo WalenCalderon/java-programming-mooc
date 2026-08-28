@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Pide un número entero, conviértelo al tipo adecuado y confirma al usuario qué número introdujo.
+ */
 public class IntegerInput {
 
     public static void main(String[] args) {

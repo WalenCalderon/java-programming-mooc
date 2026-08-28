@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee un entero y determina si es par o impar usando el residuo de la división.
+ */
 public class OddOrEven {
 
     public static void main(String[] args) {

@@ -1,4 +1,8 @@
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Modifica la historia anterior para que termine hablando de un dinosaurio; conserva las tres líneas.
+ */
 public class Dinosaur {
 
     public static void main(String[] args) {

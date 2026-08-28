@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Determina si un año es bisiesto: divisible entre 4, salvo los divisibles entre 100 que no sean también divisibles entre 400.
+ */
 public class LeapYear {
 
     public static void main(String[] args) {

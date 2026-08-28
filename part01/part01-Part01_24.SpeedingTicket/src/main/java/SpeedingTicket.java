@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee la velocidad; si supera 120, informa que se emitirá una multa. Si no la supera, no muestres ese aviso.
+ */
 public class SpeedingTicket {
 
     public static void main(String[] args) {

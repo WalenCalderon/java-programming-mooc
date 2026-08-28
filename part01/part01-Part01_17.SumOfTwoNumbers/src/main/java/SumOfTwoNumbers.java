@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee dos números enteros y muestra su suma.
+ */
 public class SumOfTwoNumbers {
 
     public static void main(String[] args) {

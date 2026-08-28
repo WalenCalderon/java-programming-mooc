@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee la edad y comunica si la persona tiene al menos 18 años.
+ */
 public class Adulthood {
 
     public static void main(String[] args) {

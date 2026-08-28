@@ -13,5 +13,6 @@
 
     <modules>
         <module>part01</module>
+        <module>part02</module>
     </modules>
 </project>

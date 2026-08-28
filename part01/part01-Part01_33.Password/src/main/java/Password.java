@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Pide una contraseña y muestra el mensaje secreto solo cuando coincida exactamente con la contraseña definida por el ejercicio.
+ */
 public class Password {
 
     public static void main(String[] args) {

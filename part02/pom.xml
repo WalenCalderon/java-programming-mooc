@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>tkt</groupId>
+    <artifactId>mooc-java-programming-i-part02</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>MOOC Java Programming I - Part 2</name>
+
+    <modules>
+        <module>part02-Part02_01.Squared</module>
+        <module>part02-Part02_02.SquareRootOfSum</module>
+        <module>part02-Part02_03.AbsoluteValue</module>
+        <module>part02-Part02_04.ComparingNumbers</module>
+        <module>part02-Part02_05.CarryOn</module>
+        <module>part02-Part02_06.AreWeThereYet</module>
+        <module>part02-Part02_07.OnlyPositives</module>
+        <module>part02-Part02_08.NumberOfNumbers</module>
+        <module>part02-Part02_09.NumberOfNegativeNumbers</module>
+        <module>part02-Part02_10.SumOfNumbers</module>
+        <module>part02-Part02_11.NumberAndSumOfNumbers</module>
+        <module>part02-Part02_12.AverageOfNumbers</module>
+        <module>part02-Part02_13.AverageOfPositiveNumbers</module>
+        <module>part02-Part02_14.Counting</module>
+        <module>part02-Part02_15.CountingToHundred</module>
+        <module>part02-Part02_16.FromWhereToWhere</module>
+        <module>part02-Part02_17.SumOfASequence</module>
+        <module>part02-Part02_18.SumOfASequenceTheSequel</module>
+        <module>part02-Part02_19.Factorial</module>
+        <module>part02-Part02_20.RepeatingBreakingAndRemembering</module>
+        <module>part02-Part02_21.InAHoleInTheGround</module>
+        <module>part02-Part02_22.Reprint</module>
+        <module>part02-Part02_23.FromOneToParameter</module>
+        <module>part02-Part02_24.FromParameterToOne</module>
+        <module>part02-Part02_25.Division</module>
+        <module>part02-Part02_26.DivisibleByThree</module>
+        <module>part02-Part02_27.NumberUno</module>
+        <module>part02-Part02_28.Word</module>
+        <module>part02-Part02_29.Summation</module>
+        <module>part02-Part02_30.Smallest</module>
+        <module>part02-Part02_31.Greatest</module>
+        <module>part02-Part02_32.Averaging</module>
+        <module>part02-Part02_33.StarSign</module>
+        <module>part02-Part02_34.AdvancedAstrology</module>
+    </modules>
+</project>

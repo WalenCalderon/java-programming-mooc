@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee una cantidad de días, calcula cuántos segundos contienen y muestra el resultado.
+ */
 public class SecondsInADay {
 
     public static void main(String[] args) {

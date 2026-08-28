@@ -1,4 +1,8 @@
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Asigna los valores pedidos a las tres variables: 9000 pollos, 0.1 kg de bacon y el tractor Zetor. No cambies la sección de salida.
+ */
 public class VariousVariables {
 
     public static void main(String[] args) {

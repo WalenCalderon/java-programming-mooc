@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee en orden un texto, un entero, un decimal y un valor lógico; después confirma cada dato con el formato solicitado.
+ */
 public class DifferentTypesOfInput {
 
     public static void main(String[] args) {

@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee un número y comunica si es positivo. El cero y los negativos deben recibir la respuesta contraria.
+ */
 public class Positivity {
 
     public static void main(String[] args) {

@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee dos números y calcula su promedio como decimal, evitando perder la parte fraccionaria.
+ */
 public class AverageOfTwoNumbers {
 
     public static void main(String[] args) {

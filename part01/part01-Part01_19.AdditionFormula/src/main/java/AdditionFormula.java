@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee dos números y muestra una operación de suma completa: ambos operandos y el resultado.
+ */
 public class AdditionFormula {
 
     public static void main(String[] args) {

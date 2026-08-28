@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Corrige solamente la sangría y el formato del programa entregado sin cambiar su comportamiento.
+ */
 public class CheckYourIndentation {
 
     public static void main(String[] args) {

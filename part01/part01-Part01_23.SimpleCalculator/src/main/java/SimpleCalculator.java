@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee dos números y muestra, en líneas separadas, su suma, diferencia, producto y cociente decimal.
+ */
 public class SimpleCalculator {
 
     public static void main(String[] args) {

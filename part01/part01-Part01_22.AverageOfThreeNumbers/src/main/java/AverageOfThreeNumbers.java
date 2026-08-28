@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee tres números y calcula su promedio como decimal.
+ */
 public class AverageOfThreeNumbers {
 
     public static void main(String[] args) {

@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Lee dos enteros y muestra cuál es mayor; si coinciden, indica que son iguales.
+ */
 public class LargerThanOrEqualTo {
 
     public static void main(String[] args) {

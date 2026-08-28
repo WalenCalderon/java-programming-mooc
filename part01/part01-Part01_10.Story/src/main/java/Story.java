@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+/**
+ * OBJETIVO DEL EJERCICIO:
+ * Pide el nombre del personaje y su profesión; después genera las tres líneas de la historia usando ambos datos.
+ */
 public class Story {
 
     public static void main(String[] args) {
