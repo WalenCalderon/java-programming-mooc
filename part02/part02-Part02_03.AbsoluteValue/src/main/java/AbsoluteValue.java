@@ -10,7 +10,7 @@ public class AbsoluteValue {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-       double num =Math.abs(Double.valueOf(scanner.nextLine()));
+        int num = Math.abs(Integer.valueOf(scanner.nextLine()));
         System.out.println(num);
 
     }

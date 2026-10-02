@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 /**
@@ -15,13 +14,11 @@ public class CheckYourIndentation {
         System.out.println("Give another number: ");
         int second = Integer.valueOf(scan.nextLine());
         if (first == second) {
-                System.out.println("Same!");
-        }
-        else if (first > second) {
+            System.out.println("Same!");
+        } else if (first > second) {
             System.out.println("The first was larger than the second!");
-        }
-        else {
-        System.out.println("The second was larger than the first!");
+        } else {
+            System.out.println("The second was larger than the first!");
         }
 
     }
